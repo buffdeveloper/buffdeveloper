@@ -79,7 +79,7 @@ I'm currently exploring:
 - [Dev.to](https://dev.to/buffdeveloper)
 
 ### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gasamzolo&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=buffdeveloper&show_icons=true&theme=radical)
 
 ---
 
