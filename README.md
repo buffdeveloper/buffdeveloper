@@ -74,9 +74,9 @@ I'm currently exploring:
 
 ### 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/gasa-mzolo-39026243/)
-- [BlueSky](https://bsky.app/profile/buffdeveloper.bsky.social)
-- [Personal Blog](https://buffdeveloper.dev)
-- [Dev.to](https://dev.to/buffdeveloper)
+- [BlueSky](https://bsky.app/profile/buffdeveloper.bsky.social) (Coming Soon)
+- [Personal Blog](https://buffdeveloper.dev) (Coming Soon)
+- [Dev.to](https://dev.to/buffdeveloper) (Coming Soon)
 
 ### 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=buffdeveloper&show_icons=true&theme=radical)
